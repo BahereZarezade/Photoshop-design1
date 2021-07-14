@@ -1,2 +1,3 @@
 # Photoshop-design1
-this project is a website with design by photoshop. (PSD)
+## This project is a Design of a website witch designed by photoshop software. (PSD Design)
+
